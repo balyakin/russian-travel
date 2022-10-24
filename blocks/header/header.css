@@ -8,7 +8,7 @@ header {
   align-items: flex-end;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
   .header {
     margin-left: 24px;
     margin-right: 24px;
@@ -16,7 +16,7 @@ header {
   }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 750) {
   .header {
     margin-left: 16px;
     margin-right: 16px;

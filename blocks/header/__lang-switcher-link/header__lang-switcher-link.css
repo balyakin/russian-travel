@@ -6,7 +6,7 @@
   text-decoration: none;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 750px) {
   .header__lang-switcher-link {
     font-size: 18px;
     line-height: 1.11;
