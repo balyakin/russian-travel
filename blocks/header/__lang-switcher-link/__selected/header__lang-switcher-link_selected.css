@@ -1,0 +1,5 @@
+.header__lang-switcher-link_selected {
+  text-decoration: underline;
+  cursor: default;
+  color: var(--main-white);
+}
