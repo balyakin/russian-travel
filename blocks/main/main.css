@@ -18,7 +18,7 @@
   background-color: var(--main-background);
 }
 
-@media screen and (max-width: 500) {
+@media screen and (max-width: 750) {
   .main {
     padding-top: 16px;
   }
