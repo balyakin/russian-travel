@@ -24,7 +24,7 @@
 
 @media screen and (min-width: 769px) {
   .cover__link:before {
-    transition: opacity .9s ease-in-out, box-shadow .9s ease-in-out;
+    transition: opacity .7s ease-in-out, box-shadow .7s ease-in-out;
   }
   .cover__link:hover:before {
     opacity: .8;
