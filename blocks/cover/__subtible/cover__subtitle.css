@@ -3,6 +3,8 @@
   font-size: 18px;
   line-height: 1.22;
   max-width: 360px;
+  text-align: center;
+  color: var(--main-white);
 }
 
 @media screen and (max-width: 750px) {
@@ -12,3 +14,4 @@
     line-height: 1.14;
   }
 }
+

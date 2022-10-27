@@ -4,6 +4,11 @@
   font-size: 72px;
   line-height: 1.06;
   font-weight: 900;
+  max-width: 560px;
+  text-align: center;
+  color: var(--main-white);
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 @media screen and (max-width: 750px) {
