@@ -8,13 +8,13 @@
 }
 
 @media screen and (max-width: 900px) {
-  .place {
+  .places__list {
     gap: 72px;
   }
 }
 
 @media screen and (max-width: 750px) {
-  .place {
+  .places__list {
     gap: 50px;
   }
 }

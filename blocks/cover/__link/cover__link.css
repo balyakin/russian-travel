@@ -24,7 +24,7 @@
   height: 100%;
   background-color: var(--main-background);
   opacity: .3;
-  transition: opacity .7s ease-in-out, box-shadow .7s ease-in-out;
+  transition: opacity .7s ease-in-out
 }
 
 .cover__link:hover:before {
@@ -35,7 +35,6 @@
 @media screen and (max-width: 1200px) {
   .cover__link {
     min-height: 640px;
-
   }
 }
 
@@ -45,7 +44,7 @@
   }
 }
 
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 750px) {
   .cover__link {
     min-height: 200px;  }
 }

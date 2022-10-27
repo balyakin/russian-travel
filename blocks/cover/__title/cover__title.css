@@ -6,6 +6,15 @@
   font-weight: 900;
 }
 
+@media screen and (max-width: 750px) {
+  .cover__title {
+    margin-bottom: 16px;
+    font-size: 52px;
+    line-height: 1.09;
+  }
+}
+
+
 @media screen and (max-width: 550px) {
   .cover__title {
     margin-bottom: 16px;
