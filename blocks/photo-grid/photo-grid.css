@@ -6,6 +6,13 @@
   box-sizing: border-box;
 }
 
+@media screen and (max-width: 1200px) {
+  .photo-grid {
+    gap: 14px;
+  }
+}
+
+
 @media screen and (max-width: 900px) {
   .photo-grid {
     margin-left: 24px;

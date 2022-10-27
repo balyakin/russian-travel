@@ -1,9 +1,9 @@
-.place__website {
+.places__website {
   align-self: end;
 }
 
 @media screen and (max-width: 750px) {
-  .place__website {
+  .places__website {
     align-self: flex-start;
     margin-left: 16px;
   }

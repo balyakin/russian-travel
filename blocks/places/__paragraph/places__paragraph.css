@@ -1,4 +1,4 @@
-.place__paragraph {
+.places__paragraph {
   margin: 0;
   margin-bottom: 26px;
   font-size: 18px;
@@ -6,12 +6,12 @@
   grid-column: 2;
 }
 
-.place__paragraph:last-of-type {
+.places__paragraph:last-of-type {
   margin-bottom: 0;
 }
 
-@media screen and (max-width: 1200px) {
-  .place__paragraph {
+@media screen and (max-width: 900px) {
+  .places__paragraph {
     font-size: 16px;
   }
 }
